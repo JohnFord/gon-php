@@ -1,0 +1,14 @@
+{
+    "name": "johnford/gon-php",
+    "description": "Get your PHP variables in your js",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "John Ford",
+            "email": "jwford@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
